@@ -5,6 +5,7 @@ object Matching {
   def main(args: Array[String]) {
     val x = "2"
     val item = getItem(x)
+    println(item)
     println(item.getClass)
   }
 
