@@ -1,0 +1,14 @@
+1;João Silva;Tarde quente em #Palmas só pra variar... hahahaha... Já já Mengão em campo...;20/10/2013
+2;Ana Souza;#Scala traits implementation and interoperability. Part II: Traits linearization http://buff.ly/1eByG1v;20/10/2013
+3;Alysson Martins;Atenção: o @MarioSilva deu fim a duas bandeijas de combinado de salmão, dois temakis, um salmão grelhado e duas porções de lula. #PALMAS;20/10/2013
+4;Bruna Ribeiro;1000+ players on http://lichess.org , server load = 0.00. Thanks #scala, #playframework, #akka and #mongodb :);19/10/2013
+5;Aline Soares;Boom diiia Paalmas ! :) #holiday #friday #Palmas #Tocantins;19/10/2013
+6;Vitor Vulcano;Thrilled to finally be able to announce @Typesafe's aquisition of @sprayio! Happy hAkking! #akka #play #scala http://www.marketwired.com/press-release/-1841738.htm;19/10/2013 
+7;Valeria Silva;Roteiro de um dia e meio em Palmas, no Tocantins http://www.viajaretudodebom.com.br/2013/10/07/dia-meio-palmas-tocantins/ … #tocantins #palmas;19/10/2013
+8;Franck Aguiar;Neste momento em #Palmas-TO: 32ºC e 59% de umidade relativa do ar. Ventos fracos à moderado. Muita variação da nebulosidade.;19/10/2013
+9;Felipe Eduardo;Fantastic slides on system programming @ Twitter with #Scala, futures and finagle. Author: @marius - http://monkey.org/~marius/talks/twittersystems/;19/10/2013
+10;Cris Cunha;Estou feliz em ver Palmas sendo cuidada, Celtins, Saneatins, Prefeitura, empresas de telecomunicação e etc, muito bom. #Palmas;18/10/2013
+11;Alexandre Vieira;“@raulraja: Very cool comparison of Design Patterns in #Java and how it's done in #Scala by @pavelfatin http://buff.ly/1atDAJB” @fjfdeztoro;18/10/2013
+12;Vinícius Teixeira;23 de setembro, Dia do Agente de Trânsito. Parabéns a todos esses profissionais que trabalham para termos um trânsito mais seguro. #Palmas;17/10/2013
+13;Thabata Souza;Building a trading platform in 6 weeks using #Scala and an approach counter to the organisation - @lancewalton http://codemesh.io;17/10/2013
+14;Paulo Sousa;#Florianópolis, #Palmas e #Vitória se unem à #ICES do #BID para estimular o #desenvolvimento urbano sustentável http://ow.ly/oLXvP;17/10/2013
