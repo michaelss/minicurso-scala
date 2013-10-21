@@ -5,7 +5,7 @@ Encoinfo 2013 - 21 a 25/10/2013 - Palmas, Tocantins, Brasil
 [http://ulbra-to.br/encoinfo](http://ulbra-to.br/encoinfo "http://ulbra-to.br/encoinfo")
 
 
-Abrindo o projeto no Eclipse (Scala-IDE)
+Abrindo o projeto no Eclipse ([Scala-IDE](http://scala-ide.org/ "http://scala-ide.org/"))
 -----------------------
 
 1. Importando o projeto:
