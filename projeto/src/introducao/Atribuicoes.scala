@@ -46,8 +46,8 @@ object Atribuicoes {
     
     println("j ainda não foi acessado")
     
-    // Execute, descomente a linha abaixo e execute novamente
-    //j
+    // Descomente a linha abaixo e execute novamente
+    // j
   }
 
   // Declaração de função - chaves opcionais para uma só linha
